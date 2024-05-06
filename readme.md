@@ -1,10 +1,10 @@
 # About
 This is a collectively created document for students, activists, and organizers to help maintain privacy. You can view the list of tools below, and instructions on how to add to this document.
 
-# How to Add to This List
-1. Open the "Pull Requests" tab in this repository
-![pull requests](https://drive.google.com/uc?id=16HRNMXyoGaGJInKf-q5j_M-KYATpU3N1)
-2. 
+This list is maintained with care by [Sam Heckle](https://github.com/samheckle), [Morgan Mueller](https://github.com/morganmueller), and [Theo Ellin Bellew](https://github.com/theoellinballew). 
+
+### How to Add to This List
+If you have never used GitHub or done open source contributions, visit the [how to add guide](/how-to-add.md) for steps on making a pull request or messaging a contributor to add anonymously!
 
 ---
 # Tools for Protesting, Activism, and Organizing
