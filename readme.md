@@ -13,3 +13,6 @@ If you have never used GitHub or done open source contributions, visit the [how 
 
 [Defend Against Police Surveillance at Protests](https://www.acludc.org/en/how-defend-against-police-surveillance-protests)
  * An article about tactics to defend yourself against police protests. With the aforementioned above tool, police can track down and harass protesters, so it is important to be mindful of posting identifiable information online.
+
+[Sojourners for Justice Press](https://sojourners4justice.press/)
+* Micro press that publishes DIY abolitionist practices.
